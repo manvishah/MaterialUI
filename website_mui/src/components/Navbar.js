@@ -48,7 +48,7 @@ const Navbar = () => {
     <AppBar position="sticky" sx={{ display: { backgroundColor: "skyBlue" } }}>
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          LAMA DEV
+        Manvi Shah
         </Typography>
         <Pets sx={{ display: { xs: "block", sm: "none" } }} />
         <Search>
